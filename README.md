@@ -1,2 +1,2 @@
 Сайт Highpass
-html css js gulp stylelint
+html scss js gulp stylelint
